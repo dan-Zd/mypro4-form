@@ -1,0 +1,90 @@
+body{
+	font-size: 12px;
+	margin:0;
+	background-color: #336666;
+}
+.content{
+	background-color: #fff;
+	width:710px;
+	border-radius:30px;
+	margin:10px auto;
+	margin-bottom: 10px;
+}
+.logo{
+	 width:180px;
+	 height:76px;
+	 float:left;
+	 margin-top: 10px;
+	 margin-left: 40px;
+}
+nav{
+	float:right;
+	margin-top: 70px;
+	margin-right: 35px;
+}
+nav a{
+	color:#FF0099;
+	margin-left: 5px;
+}
+article{
+	width:650px;
+	margin:0px auto;
+	clear:both;
+	padding-top: 2px;
+}
+h1{
+	text-align: center;
+}
+ table{
+ 	 border: solid 1px #B4B4B4;  
+     border-collapse: collapse; 
+ }
+ tr,td,th,input,textarea,select{
+ 	border: solid 1px #B4B4B4;
+ }
+ #news1,#newa2,#news3{
+ 	height:26px;
+ 	background-color: #EEEEEE;
+ 	color:#003399;
+ 	font-weight: bold;
+    text-align: left;
+ }
+ table span{
+ 	color:#FF0000;
+ }
+ table font{
+ 	color:#0000FF;
+ }
+ textarea{
+ 	width:530px;
+ 	height:150px;
+ }
+ .sch{
+ 	font-weight: bold;
+ 	padding-top:10px;
+ 	padding-bottom: 5px;
+ }
+ #sub{
+ 	line-height: 150%;
+ }
+ #sub-par{
+ 	text-align: center;
+ }
+ table tr>td:first-child{
+ 	text-align: right;
+ }
+ #head{
+ 	text-align: center;
+ 	line-height: 20px;
+ 	height:60px;
+ }
+ footer{
+ 	text-align: center;
+    height:50px;
+ }
+ footer span{
+ 	color:#3c3c3c; 
+ }
+ a:hover{
+ 	color:#EEEEEE;
+ }
